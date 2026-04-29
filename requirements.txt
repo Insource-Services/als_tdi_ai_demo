@@ -3,3 +3,5 @@ numpy
 matplotlib
 seaborn
 lifelines
+plotly
+jinja2

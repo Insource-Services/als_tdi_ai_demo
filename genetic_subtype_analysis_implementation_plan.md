@@ -2,11 +2,16 @@
 
 This plan outlines the steps to generate a comprehensive clinical analysis report for ALS patients, integrating phenotype and genotype data.
 
+## Confirm the environment
+
+1. Confirm that you are able to access python
+2. Load requirements.txt
+
 ## Proposed Changes
 
 ### [Component Name] Analysis Script
 
-#### [NEW] [generate_clinical_report.py](file:///Users/bcole/bin/als_tdi_ai_demo/generate_clinical_report.py)
+#### [NEW] generate_clinical_report.py
 A Python script that:
 1.  **Data Loading & Preprocessing**:
     *   Loads `synthetic_proact_dataset.csv`.
