@@ -1,0 +1,6 @@
+You have 2 files available: synethetic_proact_dataset.csv and synthetic_cohort.vcf.
+These 2 files are phenotypes and genotypes of ALS patients.
+Generate an analysis report of the clinical data in HTML format.
+Report on the distribution of age of onset, the site of onset,
+  the progresion by site of onset,
+  and the survival by site of onset (Kaplan-Meier curves).
