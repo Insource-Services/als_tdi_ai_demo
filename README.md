@@ -1,8 +1,7 @@
 # ALS TDI AI Demo Files
 
-*   `als_genotype_phenotype_analysis.ipynb`
-*   `synthetic_proact_dataset.csv`
-*   `synthetic_cohort.vcf`
-*   `survival_analysis.py`
-*   `generate_vcf.py`
-*   `generate_notebook.py`
+*   `data/synthetic_proact_dataset.csv`
+*   `data/synthetic_cohort.vcf`
+*   `data_generators/survival_analysis.py`
+*   `data_generators/generate_vcf.py`
+*   `prompts/clinical_analysis_prompt.txt`

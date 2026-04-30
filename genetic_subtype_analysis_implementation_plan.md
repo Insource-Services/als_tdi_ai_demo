@@ -14,8 +14,8 @@ This plan outlines the steps to generate a comprehensive clinical analysis repor
 #### [NEW] generate_clinical_report.py
 A Python script that:
 1.  **Data Loading & Preprocessing**:
-    *   Loads `synthetic_proact_dataset.csv`.
-    *   Parses `synthetic_cohort.vcf` to identify patients with SOD1 and C9orf72 mutations.
+    *   Loads `data/synthetic_proact_dataset.csv`.
+    *   Parses `data/synthetic_cohort.vcf` to identify patients with SOD1 and C9orf72 mutations.
     *   Categorizes patients into `SOD1`, `C9orf72`, and `Spontaneous` (Other).
 2.  **Statistical Analysis**:
     *   **Age of Onset**: Calculates distribution and summary statistics stratified by subtype.
